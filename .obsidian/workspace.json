@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "8291269eeb0b4f33",
+    "type": "split",
+    "children": [
+      {
+        "id": "580a8bd394bc00a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b3ef60cce6c5e86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "section-3-Hardware/3.1 ( Cables and Adapters ).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.1 ( Cables and Adapters )"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6979f69408a37e89",
+    "type": "split",
+    "children": [
+      {
+        "id": "af5a8f4417d258f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6d1e0adc34588b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "38192a7ce6ec81ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "23782f02ede61df4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "25ec352804cc2746",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b4fc3a2a75a38c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b15caaa0bad29fca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "section-3-Hardware/3.1 ( Cables and Adapters ).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 3.1 ( Cables and Adapters )"
+            }
+          },
+          {
+            "id": "0a6172ac90af948e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "section-3-Hardware/3.1 ( Cables and Adapters ).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 3.1 ( Cables and Adapters )"
+            }
+          },
+          {
+            "id": "a0b1591b942269b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0c668099f21b322a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "section-3-Hardware/3.1 ( Cables and Adapters ).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 3.1 ( Cables and Adapters )"
+            }
+          },
+          {
+            "id": "4866299f21e5d13e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3b3ef60cce6c5e86",
+  "lastOpenFiles": [
+    "section-3-Hardware/3.2 ( Memory ).md",
+    "section-3-Hardware/3.1 ( Cables and Adapters ).md",
+    "2025-04-18.md",
+    "section-3-Hardware/3.4 ( Motherboards ).md"
+  ]
+}
